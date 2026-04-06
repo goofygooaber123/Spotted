@@ -3,8 +3,8 @@
 ## דרישות
 
 <ul dir="rtl">
-<li><a href="https://docs.vencord.dev/installing/">Vencord</a></li>
-<li><a href="https://docs.vencord.dev/installing/custom-plugins/">Userplugins</a></li>
+<li><a href="https://docs.equicord.org/building-from-source">Equicord</a></li>
+<li><a href="https://docs.equicord.org/plugins/">Userplugins</a></li>
 </ul>
 
 ## התוסף

@@ -15,7 +15,7 @@
 
 ---
 
-להוראות התקנה, ראה [INSTALL.md](./Install.md).
+להוראות התקנה: [INSTALL.md](./Install.md).
 
 ---
 לילה טוב.
